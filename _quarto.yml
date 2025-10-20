@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "ההיסטוריה של העבר, ההווה והעתיד של התחבורה בירושלים"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: ימי קדם
+        href: ancient_times.qmd
+      - text: עות'מנים
+        href: ancient_times_ottomans.qmd
+      - text: בריטים
+        href: ancient_times_british.qmd
+      - text: ישראל הצעירה
+        href: ancient_times_israel.qmd
+      - text: ירושלים המאוחדת
+        href: jerusalem_unified.qmd
+      - text: ירושלים המפורברת עוברת לרק"ל
+        href: jerusalem_tram_transition.qmd
+      - text: ירושלים עוברת לרשת רק"ל מטרופולית
+        href: jerusalem_tram_network.qmd
+      - text: ירושלים עוברת למטרו
+        href: jerusalem_metro.qmd
+      - text: כבישים ארציים
+        href: national_roads.qmd
+      - text: רכבת כבדה
+        href: heavy_rail.qmd
+      - text: אופניים
+        href: bicycles.qmd
+      - text: אודות
+        href: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

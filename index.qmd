@@ -1,0 +1,27 @@
+---
+title: "ההיסטוריה של העבר, ההווה והעתיד של התחבורה בירושלים"  
+author: "עדו קליין"
+date: 2023-10-24
+lang: "he"
+---
+  
+::: {dir="rtl"}
+
+## תוכן עניינים
+
+- [ימי קדם](ancient_times.qmd)
+	- [עות'מנים](ancient_times_ottomans.qmd)
+	- [בריטים](ancient_times_british.qmd)
+	- [ישראל הצעירה](ancient_times_israel.qmd)
+- [ירושלים המאוחדת](jerusalem_unified.qmd)
+- [ירושלים המפורברת עוברת לרק"ל](jerusalem_tram_transition.qmd)
+- [ירושלים עוברת לרשת רק"ל מטרופולית](jerusalem_tram_network.qmd)
+- [ירושלים עוברת למטרו](jerusalem_metro.qmd)
+- [כבישים ארציים](national_roads.qmd)
+- [רכבת כבדה](heavy_rail.qmd)
+- [אופניים](bicycles.qmd)
+
+
+
+
+:::
