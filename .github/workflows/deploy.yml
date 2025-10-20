@@ -4,11 +4,19 @@ on:
   push:
     branches: [ main ]
 
+# Ensure the workflow has permission to push and to manage pages
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install Quarto
         run: |
