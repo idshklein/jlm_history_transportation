@@ -1,0 +1,30 @@
+/* css styles */
+/* Right-align header metadata for RTL documents */
+/* Targets Quarto/Pandoc generated metadata blocks like author/date */
+body[dir="rtl"], .quarto-body[dir="rtl"] {
+  direction: rtl !important;
+}
+
+.quarto-title, .page-title, h1.title {
+  text-align: right !important;
+}
+
+/* Author/date metadata blocks often use .author and .date or .meta */
+.author, .date, .byline, .meta, .quarto-author, .quarto-date {
+  text-align: right !important;
+  direction: rtl !important;
+}
+
+/* Fallback for Quarto's header metadata container */
+.quarto-title + .meta, .quarto-title ~ .meta {
+  text-align: right !important;
+}
+
+/* Specific Quarto class for title/meta heading */
+.quarto-title-meta-heading,.quarto-title-meta-contents,.footnotes,
+.title .meta,
+.title .quarto-meta,
+.quarto-title .meta {
+  text-align: right !important;
+  direction: rtl !important;
+}
