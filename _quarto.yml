@@ -6,7 +6,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: ראשי
+      - href: philosophy.qmd
+        text: פילוסופיה
       - text: ימי קדם
         href: ancient_times.qmd
       - text: עות'מנים
@@ -29,6 +31,8 @@ website:
         href: heavy_rail.qmd
       - text: אופניים
         href: bicycles.qmd
+      - text: שכונת רסקו גונן ה' וחברים - הצירים האבודים
+        href: neighbourhood.qmd
       - text: אודות
         href: about.qmd
 

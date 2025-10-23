@@ -1,6 +1,7 @@
 ---
 title: "ירושלים המאוחדת"
 ---
+
 ::: {dir="rtl"}
 ## ירושלים אחרי 1967
 
@@ -10,51 +11,49 @@ title: "ירושלים המאוחדת"
 
 ### תכנית אב לתחבורה משנות ה-70
 
-התכנית מאסיביות ביותר:
+תכנית שנכתבה היישר אחרי מלחמת ששת הימים ודנה על דפוסי הפיתוח היוצאים של העיר.
 
-![](media/Screenshot%202025-10-20%20213812.png)
+![כריכה](media/Screenshot%202025-10-20%20213812.png){fig-align="center"}
 :::
 
-![](images/paste-6.png)
-
 ::: {dir="rtl"}
-![](images/paste-1.png)
+![רשת הדרכים המצומצמת לשנת 1985](images/paste-1.png){fig-align="center"}
 
-![](images/paste-2.png)
+![מערכת הדרכים המורחבת](images/paste-2.png){fig-align="center"}
 
-![](images/paste-3.png)
+![תנועות בעיר ב1968](images/paste-3.png){fig-align="center"}
 
-![](images/paste-4.png)
+![מערכת המחלפים המוצעת](images/paste-4.png)
 
-![](images/paste-5.png)
+![נפחי התנועה ב1968](images/paste-8.png)
 
-![](images/paste-7.png)
+![איזוכרון](images/paste-9.png)
 
-![](images/paste-8.png)
-
-![](images/paste-9.png)
-
-![](images/paste-10.png)
+![קווי התחצ ב1968](images/paste-10.png)
 
 ![](images/paste-11.png)
 
-![](images/paste-12.png)
+![חזון 2010](images/paste-12.png)
 
 ![](images/paste-13.png)
 
 ### והתוצאות
 
-#### כביש 4
+#### כביש 4 (בגין)
 
-#### כביש 9
+#### כביש 9 (עמק הארזים - הגבעה הצרפתית)
 
 #### כביש 16
 
-וגם - אחוז משקי בית עם שני רכבים ומעלה
+אבל גם הייתה חלופה לכיכר האפט ללא מנהרה במקור.
+
+### וגם - פרבור מאסיבי, ולכן - אחוז משקי בית עם שני רכבים ומעלה ב2022
 
 ![https://x.com/idoklein1/status/1771624601249783834](images/paste-49.png)
 
 ### ההיסטוריה של העתיד - הלא-תוצאות
 
 ![](images/paste-50.png)
+
+![](images/paste-71.png)
 :::

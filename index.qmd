@@ -9,6 +9,7 @@ lang: "he"
 
 ## תוכן עניינים
 
+- [פילוסופיה](philosophy.qmd)
 - [ימי קדם](ancient_times.qmd)
 	- [עות'מנים](ancient_times_ottomans.qmd)
 	- [בריטים](ancient_times_british.qmd)
@@ -20,7 +21,7 @@ lang: "he"
 - [כבישים ארציים](national_roads.qmd)
 - [רכבת כבדה](heavy_rail.qmd)
 - [אופניים](bicycles.qmd)
-
+- [שכונת רסקו גונן ה' וחברים - הצירים האבודים](neighbourhood.qmd)
 
 
 
